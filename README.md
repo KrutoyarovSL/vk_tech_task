@@ -1,4 +1,3 @@
-### Преза - https://docs.google.com/presentation/d/1parZBhqyMOjbEv1FdakDDiWkMHRxyypTQkboAyGkPKI/edit?usp=sharing
 # Evaluation Framework
 
 Фреймворк для поведенческой оценки ReAct-агента без ground truth ответов.
